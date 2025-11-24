@@ -13,9 +13,7 @@ Transformer-Based MRI Framework (TBMF) with RF Excitation Embeddings</h1>
         <img src="https://api.infinitescript.com/badgen/badge?ltext=language&rtext=Python&color=fc9003">
     </h4>
 
-</div>
-【<a href='https://github.com/DinorNagar' target='_blank'>Dinor Nagar</a> |
-<a href='https://github.com/operlman' target='_blank'>Or Perlman</a>】
+
 <div>
 <a href='https://mri-ai.github.io/' target='_blank'>Momentum Lab, Tel Aviv University</a>
 </div>
@@ -93,3 +91,4 @@ The results will be saved on the path `predictions\*` creating two files:
 
 ## 🔗 References
 Nagar, D., Ifrah, S., Finkelstein, A., Vladimirov, N., Zaiss, M., Perlman O. Multi-Contrast Generation and Quantitative MRI using a Transformer-Based Framework with RF Excitation Embeddings. Communications Biology, In press.
+

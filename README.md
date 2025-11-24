@@ -7,8 +7,8 @@ Transformer-Based MRI Framework (TBMF) with RF Excitation Embeddings</h1>
 
 <div>
     <h4 align="center">
-        <a href="https://arxiv.org/abs/2305.19413" target='_blank'>
-        <img src="https://img.shields.io/badge/arXiv-2305.19413-b31b1b.svg">
+        <a href="https://arxiv.org/abs/2408.08376" target='_blank'>
+        <img src="https://img.shields.io/badge/arXiv-2408.08376-b31b1b.svg">
         </a> 
         <img src="https://api.infinitescript.com/badgen/badge?ltext=language&rtext=Python&color=fc9003">
     </h4>
@@ -24,7 +24,7 @@ Transformer-Based MRI Framework (TBMF) with RF Excitation Embeddings</h1>
 ## 🎬 Showcases
 
 <div align="center">
-    <h3>Biophysical-model-free multi-contrast prediction</h3>
+    <h3>Biophysical-model-free multi-contrast generation</h3>
     <img src="gifs/vol9_mt_whole_brain.gif" alt="Alt Text" width="1000">
 </div>
 

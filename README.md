@@ -13,7 +13,7 @@ Transformer-Based MRI Framework (TBMF) with RF Excitation Embeddings</h1>
         <img src="https://api.infinitescript.com/badgen/badge?ltext=language&rtext=Python&color=fc9003">
     </h4>
 
-
+</div>
 <div>
 <a href='https://mri-ai.github.io/' target='_blank'>Momentum Lab, Tel Aviv University</a>
 </div>

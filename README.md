@@ -11,6 +11,7 @@ Transformer-Based MRI Framework (TBMF) with RF Excitation Embeddings</h1>
         <img src="https://img.shields.io/badge/arXiv-2408.08376-b31b1b.svg">
         </a> 
         <img src="https://api.infinitescript.com/badgen/badge?ltext=language&rtext=Python&color=fc9003">
+        [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17712834.svg)](https://doi.org/10.5281/zenodo.17712834)
     </h4>
 
 </div>
